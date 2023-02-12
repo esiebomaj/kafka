@@ -1,0 +1,21 @@
+
+The code sample is the backend (API) that powers the CarriGo project. 
+CariGo is a decentralized Logistics application that is poised to positively disrupt the organized way of way-billing items between two locations. 
+CariGo connects people who want to send packages to travelers/Carriers.
+Here, the traveler is typically going to the said location and thus would make passive income while helping to move the item to the said location in record time.
+
+I am especially excited about the project because it addresses a problem that I have faced so many times in my country Nigeria
+
+
+
+
+Coming from a non-technical background, breaking into tech was never easy, I've had to teach myself almost everything I know. I took several courses online after which I started getting my hands dirty, building projects, and improving my skills, but most of the time, I did all of this alone as a solo engineer. 
+That said, I would love to become an MLH fellow to gain more experience working with a team and to learn more about how a real software development team works. 
+
+Furthermore, in my country Nigeria, there are not a lot of tech companies that employ junior engineers, so open source has always been an excellent way for me to contribute to great projects and improve my software skills.
+This has instilled in me a strong passion for free and open software. In the past, I have contributed to projects such as Pysa and SAPP (by Meta), Django-rest-framework, and my communities facebook developers circle's repo which is also an open-source project. 
+I would love to use this opportunity (MLH Fellowship) to ride on my already existing passion for open source, learn more about open-source, and contribute to other exciting projects. 
+
+Finally being an MLH fellow would denitely improve my skills, signicantly boost my portfolio and make me more marketable. Hence I would be able to secure a job easily afterward. 
+
+Thanks
